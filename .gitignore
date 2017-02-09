@@ -43,10 +43,10 @@ botan-test
 /tags
 
 # Amalgamation code
-botan_all.h
-botan_all_internal.h
-botan_all.cpp
-botan_all_*.cpp
+#botan_all.h
+#botan_all_internal.h
+#botan_all.cpp
+#botan_all_*.cpp
 
 # Coverage output
 coverage.info
